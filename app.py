@@ -6,7 +6,7 @@ PAGES = {
     "Home": Home,
     "Grupo": 1_Grupo,
     "Desafio": 2_Desafio,
-    "Base Histórica": 3_Base_Histórica,
+    "Base Histórica": 3_Relatório_Analitico_Preditivo,
     "Previsão": 4_Previsão,
     "Insights e Conclusão": 5_Insights_e_Conclusão,
 }
